@@ -1,0 +1,6 @@
+1.a0-a7;a2;
+2.none.g(x) is inlined with f(x) and f(x) is inlined with main()
+3.0x0000 0000 0000 0628,use pc-relative addressing.
+4.0x0000 0000 0000 0038,show the address of the next direction
+5."Hello World!";0x726c6400;no,57616 is 110 in hex regardless of endianness.
+6.a random number;
